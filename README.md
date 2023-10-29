@@ -15,22 +15,20 @@ on this project are testing a multiple regrassion model there example are below
  - KMeans Model
 
 
-## Technology used in Project :hotsprings:
-<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/plotly.png" width="200">
+## Technology used in Project :
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   
 
-
-## Bug / Feature Request :man_technologist:
+## Bug / Feature Request :
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
 
 
 ## Connect with me! 🌐
-Known on internet as **Yogesh Nile**
+Known on internet as **Kunal Ranjan**
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://bit.ly/2Ky3ho6)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://bit.ly/2yoggit) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter.png" title="Twitter">](https://bit.ly/3dbLJLC) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" title="Telegram"/>](https://t.me/yogeshnile) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://bit.ly/3b9Qeo4)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram.png" title="Instagram Personal">](https://bit.ly/32SXHV0)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](www.linkedin.com/in/kunal-ranjan-166b30249)      [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/BadBoy0170)     [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/badboy__17_/) 
 
 ## Email Me :e-mail:
-
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:yogeshnile.work4u@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:Rajveershikhawat07@gmail.com)
 
