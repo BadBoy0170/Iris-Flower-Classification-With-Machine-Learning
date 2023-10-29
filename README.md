@@ -20,9 +20,9 @@ on this project are testing a multiple regrassion model there example are below
 <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   
 
 ## Bug / Feature Request :
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/BadBoy0170/Iris-Flower-Classification-With-Machine-Learning/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/yogeshnile/Iris-Flower-Classification-using-Machine-Learning/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/BadBoy0170/Iris-Flower-Classification-With-Machine-Learning/issues). Please include sample queries and their corresponding results.
 
 ## Contribution
 
