@@ -25,6 +25,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Contribution
 
+Contributions are welcome! If you have any suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
 
 **BTC Wallet : OxfCaaF45156380eF33f078256d0Aa98f0b10F175b** my efforts and help it grow by buying me coffee - but only if you're definitely able to!
 
